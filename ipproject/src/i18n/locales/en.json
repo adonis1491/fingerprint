@@ -1,0 +1,36 @@
+{
+  "title": "Visitor Analytics Dashboard",
+  "visitorId": "Visitor ID",
+  "summary": {
+    "visits": "Visits",
+    "privacyMode": "Privacy Mode",
+    "ip": "IP"
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive",
+    "detected": "Detected",
+    "notDetected": "Not Detected",
+    "unknown": "Unknown"
+  },
+  "sections": {
+    "riskLevel": "Risk Level",
+    "networkStatus": "Network Status",
+    "browserInfo": "Browser Info",
+    "anomalies": "Anomalies",
+    "deviceInfo": "Device Information",
+    "sessionInfo": "Session Information"
+  },
+  "deviceInfo": {
+    "screenResolution": "Screen Resolution",
+    "colorDepth": "Color Depth",
+    "deviceMemory": "Device Memory",
+    "cpuCores": "CPU Cores"
+  },
+  "sessionInfo": {
+    "visitCount": "Visit Count",
+    "lastVisit": "Last Visit",
+    "connectionType": "Connection Type",
+    "latency": "Network Latency"
+  }
+}
